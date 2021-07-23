@@ -2,13 +2,15 @@
 
 step 1) clone [this](https://github.com/jaiminpatel91/Crypto-tracker.git) repository in your local machine.
 
-step 2) After clone run below command to install all dependency.
+step 2) goto Crypto-tracker directory using cd Crypto-tracker command.
+
+step 3) After clone run below command to install all dependency.
         npm install
 
-step 3) After installing run below command to run application in local.
+step 4) After installing run below command to run application in local.
         npm start
 
-step 4) After successfully local server start open [http://localhost:3000](http://localhost:3000).
+step 5) After successfully local server start open [http://localhost:3000](http://localhost:3000).
 
 Enjoy the App.
 
